@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 - ❓ Users can make new friends, form teams, and even enter PvP battles to earn additional rewards.  
   
 
-- ⚡ We will also provide efficient trading tools soon  
+- ⚡ We will also provide efficient trading tools soon  (**https://gogox.io**)
   
 
 <br/>  
